@@ -1,0 +1,17 @@
+.iconMenu {
+    width: 30px;
+    height: 30px;
+}
+
+.card-text {
+    font-style: italic;
+}
+
+.superhero {
+    display: none;
+}
+
+.estadisticas {
+    height: 600px;
+    width: 100%;
+}
